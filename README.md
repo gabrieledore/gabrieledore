@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabrieledore
-- 👀 I’m interested in Java, Python mainly, but I nurture a particular interest for PHP, MySQL, C++ and C as well.
+- 👀 I’m interested in Java, MySQL, PHP and Python mainly, but I nurture a particular interest and I will surely start studying C, C++ and other programming languages as well.
 - 🌱 I’m currently learning Java, JDBC and Python.
-- 📫 How to reach me gabrieledore1995@gmai.com
+- 📫 How to reach me gabrieledore1995@gmail.com
 
 <!---
 gabrieledore/gabrieledore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
