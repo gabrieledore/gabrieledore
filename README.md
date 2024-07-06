@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrieledore
 - 👀 I’m interested in Java, MySQL, PHP and Python mainly, but I nurture a particular interest and I will surely start studying C, C++ and other programming languages as well.
-- 🌱 I’m currently learning Java, JDBC and Python.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me gabrieledore1995@gmail.com
 
 <!---
